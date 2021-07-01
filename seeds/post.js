@@ -2,13 +2,13 @@ const {Post} = require("../models");
 console.log(Post);
 const postblogdata = [
     {
-        title: 'First Blog post of the year!',
+        title: 'Post the first blog of your life',
         description: 'This is to get it running',
         user_id: 45,
     },
     {
-        title: 'Second Blog post of the year!',
-        description: 'This is to get it going',
+        title: 'Get the second one going so we know it works',
+        description: 'This is to get it going to the top',
         user_id: 46,
     },
 ];
